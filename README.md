@@ -1,0 +1,1 @@
+Toast notification for website or snack bar notification using HTML CSS and JavaScript. I added one progress bar also in this toast. This snack bar will be animated with the help for CSS animation. This toast notification will disappear automatically after fixed time.
